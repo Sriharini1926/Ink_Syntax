@@ -1,0 +1,39 @@
+body{
+  
+  margin:0;
+ 
+}
+.header{
+  display:flex;
+  color:white;
+  background-color: #1f2937;
+  margin:0;
+  justify-content: space-around;
+}
+ol{
+  display:flex;
+  justify-content: space-between;
+  gap:10px;
+  list-style-type: none;
+}
+.info{
+  display:flex;
+  justify-content: space-around;
+  color:white;
+  background-color: #1f2937;
+  margin:0px;
+  padding-bottom:70px;
+}
+.content{
+  display:flex;
+  justify-content: center;
+}
+.container{
+  display:flex;
+  justify-content: center;
+  gap:10px;
+  padding-bottom: 30px;
+}
+.illustration{
+  max-width:200px;
+}
